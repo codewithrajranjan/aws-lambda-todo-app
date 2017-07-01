@@ -1,0 +1,19 @@
+{
+  "name": "aws-lambda-todo-app",
+  "version": "1.0.0",
+  "description": "This is the todoapp in lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
+  "author": "SelfTuts",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
